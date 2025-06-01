@@ -10,7 +10,7 @@
 		"startIntroPart2": "-Willy Wonka",
 		
 		"declaringWar": "Resistance is futile! Prepare to be defeated!",
-		"attacked": "You want to play? I it possible for you to resist!",
+		"attacked": "You want to play? Is it possible for you to resist!",
 		"defeated": "How is it possible that the enemies hurt us?",
 		"introduction": "As we the Oompa Loompas greet you. We will also guide you to everything.",
 		
@@ -30,5 +30,37 @@
 		"outerColor": [0,255,0],
 		"innerColor": [245,245,220],
 		"cities": ["Dompitidu/Crystalforge","Loompaberg","Oompastadt","Didida","Port Wonka","Wamnlabury","Oompara"]
+	},
+	{
+		"name": "Asura",
+		"leaderName": "Bat I",
+		"adjective": ["Asuran"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "You are already dead!"
+		"startIntroPart2": "-Kenshiro",
+		
+		"declaringWar": "Resistance is futile! Prepare to be defeated!",
+		"attacked": "You want to play? Is it possible for you to resist!",
+		"defeated": "How is it possible that the enemies hurt us?",
+		"introduction": "Greetings from the Asuran Warriors, we hope sure that we get along.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,255,0],
+		"innerColor": [0,255,255],
+		"cities": ["Bartslan","Turkosh","Shin City","Zeed City","Cassandra","Eden","City of the Vulgars"]
 	}
 ]
