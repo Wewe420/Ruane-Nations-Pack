@@ -11,3 +11,10 @@ NationIcons/Loompaland
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Asura
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
