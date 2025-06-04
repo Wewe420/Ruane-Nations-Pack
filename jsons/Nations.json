@@ -76,7 +76,7 @@
 		"declaringWar": "Resistance is futile! Prepare to be defeated!",
 		"attacked": "You want to play? I it possible for you to resist!",
 		"defeated": "How is it possible that the enemies hurt us?",
-		"introduction": "As we the Oompa Loompas greet you. We will also guide you to everything.",
+		"introduction": "As we the Fruits greet you. We will also guide you to everything.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -91,8 +91,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0,255,0],
-		"innerColor": [245,245,220],
-		"cities": ["Dompitidu/Crystalforge","Loompaberg","Oompastadt","Didida","Port Wonka","Wamnlabury","Oompara"]
+		"outerColor": [25,0,255],
+		"innerColor": [255,0,0],
+		"cities": ["Fruitington DC","New Yorange","Boombaby Bay","Goatville","TGI Fort","The Cold North","The Warm South","Hurricake"]
 	}
 ]
