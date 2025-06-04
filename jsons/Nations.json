@@ -94,5 +94,37 @@
 		"outerColor": [25,0,255],
 		"innerColor": [255,0,0],
 		"cities": ["Fruitington DC","New Yorange","Boombaby Bay","Goatville","TGI Fort","The Cold North","The Warm South","Hurricake"]
+	},
+	{
+		"name": "Acornia",
+		"leaderName": "Monarch Banjo & Nutty",
+		"adjective": ["Acornians"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The Oompa Loompas kept Looking for Other things to Mash Up With the Caterpillars to make them taste better, Red Bettles, Bark of the BongBong tree, All of them beastly!"
+		"startIntroPart2": "-Willy Wonka",
+		
+		"declaringWar": "Resistance is futile! Prepare to be defeated!",
+		"attacked": "You want to play? I it possible for you to resist!",
+		"defeated": "How is it possible that the enemies hurt us?",
+		"introduction": "We may indroduce ourselves as friends. Promise?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,100,100],
+		"innerColor": [245,0,0],
+		"cities":["Heiaho/Happy Tree Town","Aohan","Hahoahe","Hoahoa","Heio","Nihaoe","Haaie"]
 	}
 ]
