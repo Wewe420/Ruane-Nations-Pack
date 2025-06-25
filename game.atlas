@@ -1,5 +1,9 @@
 
-
+game.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 NationIcons/Loompaland
   rotate: false
   xy: 4, 4
